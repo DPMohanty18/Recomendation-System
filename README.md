@@ -70,7 +70,7 @@ This guide will walk you through the process of setting up the E-commerce Recomm
 
 ## Contact
 
-For any queries, feel free to open an issue or reach out to me at [sreeharis1999@gmail.com](mailto:sreeharis1999@gmail.com).
+For any queries, feel free to open an issue or reach out to me at [durgaprasannamohanty888@gmail.com](mailto:durgaprasannamohanty888@gmail.com).
 
 ## License
 
